@@ -1,0 +1,11 @@
+﻿  Source.cpp
+c:\users\mulkerokala\documents\omattiedostot\projektit\opengl\projektit\opengl_tutorial_website\opengl_tutorial_website\source.cpp(7): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\mulkerokala\documents\omattiedostot\projektit\opengl\projektit\opengl_tutorial_website\opengl_tutorial_website\source.cpp(390): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\mulkerokala\documents\omattiedostot\projektit\opengl\projektit\opengl_tutorial_website\opengl_tutorial_website\source.cpp(521): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mulkerokala\documents\omattiedostot\projektit\opengl\projektit\opengl_tutorial_website\opengl_tutorial_website\source.cpp(522): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mulkerokala\documents\omattiedostot\projektit\opengl\projektit\opengl_tutorial_website\opengl_tutorial_website\source.cpp(526): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\mulkerokala\documents\omattiedostot\projektit\opengl\projektit\opengl_tutorial_website\opengl_tutorial_website\source.cpp(527): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\mulkerokala\documents\omattiedostot\projektit\opengl\projektit\opengl_tutorial_website\opengl_tutorial_website\source.cpp(530): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mulkerokala\documents\omattiedostot\projektit\opengl\projektit\opengl_tutorial_website\opengl_tutorial_website\source.cpp(531): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  opengl_tutorial_website.vcxproj -> C:\Users\Mulkerokala\Documents\OmatTiedostot\Projektit\OpenGL\Projektit\opengl_tutorial_website\Debug\opengl_tutorial_website.exe
